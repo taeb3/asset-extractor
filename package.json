@@ -10,7 +10,7 @@
     "clean": "yarn rimraf ./dist"
   },
   "dependencies": {
-    "@geist-ui/react": "^2",
+    "@geist-ui/react": "^2.2.2",
     "@geist-ui/react-icons": "^1.0.1",
     "@tauri-apps/api": "^1.0.0-beta.4",
     "react": "^17",
